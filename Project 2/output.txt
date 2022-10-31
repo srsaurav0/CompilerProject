@@ -1,0 +1,349 @@
+UTSHO  denotes #include 
+<stdio.h> denotes a header file 
+UTSHO  denotes #include 
+<math.h> denotes a header file 
+
+SHOB  denotes #define 
+ pi denotes a string
+ 3.1416 denotes float 
+
+
+PURNO denotes a string
+  PRODHAN  denotes main
+FBO  denotes (
+FBC  denotes )
+
+SBO  denotes {
+
+LIKHO  denotes printf 
+FBO  denotes (
+QUOT  denotes ' 
+This denotes a string
+ is denotes a string
+ a denotes char 
+ test denotes a string
+ QUOT  denotes ' 
+FBC  denotes )
+SESH  denotes  ; 
+
+ 
+PURNO denotes a string
+  i denotes char 
+ MANE  denotes  = 
+2 denotes int 
+ SESH  denotes  ; 
+
+
+JODI  denotes if 
+FBO  denotes (
+ i denotes char 
+ SHOMAN  denotes  == 
+2 denotes int 
+ FBC  denotes )
+
+SBO  denotes {
+
+	LIKHO  denotes printf 
+FBO  denotes (
+QUOT  denotes ' 
+true denotes a string
+ QUOT  denotes ' 
+FBC  denotes )
+SESH  denotes  ; 
+
+SBC  denotes }
+
+ABAR  denotes else 
+
+SBO  denotes {
+
+	LIKHO  denotes printf 
+FBO  denotes (
+QUOT  denotes ' 
+false denotes a string
+ QUOT  denotes ' 
+FBC  denotes )
+SESH  denotes  ; 
+
+SBC  denotes }
+
+
+PORO  denotes scanf 
+FBO  denotes (
+QUOT  denotes ' 
+%d denotes char 
+ QUOT  denotes ' 
+,&i denotes char 
+ FBC  denotes )
+SESH  denotes  ; 
+
+CHANGE  denotes switch 
+ FBO  denotes (
+i denotes char 
+ FBC  denotes )
+
+SBO  denotes {
+
+	KAHINI  denotes case 
+1 denotes int 
+ COLON  denotes  : 
+
+		LIKHO  denotes printf 
+FBO  denotes (
+QUOT  denotes ' 
+This denotes a string
+ is denotes a string
+ case denotes a string
+ 1 denotes int 
+ QUOT  denotes ' 
+FBC  denotes )
+SESH  denotes  ; 
+
+		THAMO  denotes break 
+SESH  denotes  ; 
+
+	KAHINI  denotes case 
+2 denotes int 
+ COLON  denotes  : 
+
+		LIKHO  denotes printf 
+FBO  denotes (
+QUOT  denotes ' 
+This denotes a string
+ is denotes a string
+ case denotes a string
+ 2 denotes int 
+ QUOT  denotes ' 
+FBC  denotes )
+SESH  denotes  ; 
+
+		THAMO  denotes break 
+SESH  denotes  ; 
+
+	NAHOLE  denotes default 
+COLON  denotes  : 
+
+		LIKHO  denotes printf 
+FBO  denotes (
+QUOT  denotes ' 
+This denotes a string
+ is denotes a string
+ default denotes a string
+ case denotes a string
+. QUOT  denotes ' 
+FBC  denotes )
+SESH  denotes  ; 
+
+		THAMO  denotes break 
+SESH  denotes  ; 
+
+SBC  denotes }
+
+
+PURNO denotes a string
+  a denotes char 
+,b denotes char 
+ SESH  denotes  ; 
+
+BHOGNO denotes a string
+  c denotes char 
+ SESH  denotes  ; 
+
+OKKHOR denotes a string
+  d denotes char 
+ MANE  denotes  = 
+QUOT  denotes ' 
+k denotes char 
+ QUOT  denotes ' 
+SESH  denotes  ; 
+
+BORO_PURNO  denotes long 
+ e denotes char 
+ SESH  denotes  ; 
+
+DOUBLE  denotes double 
+ f denotes char 
+ SESH  denotes  ; 
+
+
+PURNO denotes a string
+  k denotes char 
+ MANE  denotes  = 
+FBO  denotes (
+1 denotes int 
+ JOG  denotes +
+2 denotes int 
+ FBC  denotes )
+SESH  denotes  ; 
+
+k denotes char 
+ MANE  denotes  = 
+FBO  denotes (
+1 denotes int 
+ BIOG  denotes -
+2 denotes int 
+ FBC  denotes )
+SESH  denotes  ; 
+
+k denotes char 
+ MANE  denotes  = 
+FBO  denotes (
+1 denotes int 
+ GUN  denotes *
+2 denotes int 
+ FBC  denotes )
+SESH  denotes  ; 
+
+k denotes char 
+ MANE  denotes  = 
+FBO  denotes (
+5 denotes int 
+ BHAG  denotes / 
+2 denotes int 
+ FBC  denotes )
+SESH  denotes  ; 
+
+
+MODDHE  denotes for 
+FBO  denotes (
+i denotes char 
+ MANE  denotes  = 
+0 denotes int 
+ SESH  denotes  ; 
+i denotes char 
+ CHOTO_SHOMAN  denotes  <= 
+5 denotes int 
+ SESH  denotes  ; 
+i denotes char 
+ BARAO  denotes ++ 
+FBC  denotes )
+
+SBO  denotes {
+
+k denotes char 
+ MANE  denotes  = 
+k denotes char 
+ JOG  denotes +
+ i denotes char 
+ SESH  denotes  ; 
+
+SBC  denotes }
+
+
+kMANE denotes a string
+ 5 denotes int 
+
+JOTOKKHON  denotes while 
+FBO  denotes (
+kKOMAO denotes a string
+ FBC  denotes )
+
+SBO  denotes {
+
+i denotes char 
+ MANE  denotes  = 
+ k denotes char 
+ JOG  denotes +
+ k denotes char 
+ SESH  denotes  ; 
+
+LIKHO  denotes printf 
+FBO  denotes (
+QUOT  denotes ' 
+Value denotes a string
+ of denotes a string
+ i denotes char 
+ is denotes a string
+ %d denotes char 
+ QUOT  denotes ' 
+, i denotes char 
+ FBC  denotes )
+SESH  denotes  ; 
+
+SBC  denotes }
+
+
+i denotes char 
+ MANE  denotes  = 
+5 denotes int 
+ SESH  denotes  ; 
+
+KORO  denotes do 
+SBO  denotes {
+
+k denotes char 
+ MANE  denotes  = 
+k denotes char 
+ JOG  denotes +
+1 denotes int 
+ SESH  denotes  ; 
+
+i denotes char 
+ KOMAO  denotes -- 
+SESH  denotes  ; 
+
+SBC  denotes }
+JOTOKKHON  denotes while 
+FBO  denotes (
+iBORO denotes a string
+_SHOMAN  denotes  == 
+0 denotes int 
+ FBC  denotes )
+
+
+i denotes char 
+ MANE  denotes  = 
+POWER denotes pow function 
+ FBO  denotes (
+i denotes char 
+ COMA  denotes , 
+2 denotes int 
+ FBC  denotes )
+SESH  denotes  ; 
+
+i denotes char 
+ MANE  denotes  = 
+ROOT denotes sqrt function 
+ FBO  denotes (
+9 denotes int 
+ FBC  denotes )
+SESH  denotes  ; 
+
+
+x denotes char 
+ COLON  denotes  : 
+
+i denotes char 
+ BARAO  denotes ++ 
+
+JODI  denotes if 
+FBO  denotes (
+i denotes char 
+ CHOTO_SHOMAN  denotes  <= 
+5 denotes int 
+ FBC  denotes )
+
+SBO  denotes {
+
+JAO  denotes goto 
+ x denotes char 
+ SESH  denotes  ; 
+
+SBC  denotes }
+
+
+UTTOR  denotes return 
+0 denotes int 
+ SESH denotes a string
+
+
+SBC  denotes }
+
+
+(##  This is a single line comment...) denotes single line comment 
+
+
+(# This is a multiline comment
+Comment ends here #) denotes multiple line comment 
+
+
